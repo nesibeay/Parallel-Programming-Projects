@@ -58,7 +58,7 @@ Benchmark script (benchmark.py) automates runs and generates CSV + plots.
 ### Dynamic Scheduling
 ![Dynamic Runtime](dynamic-runtime.png)
 ![Dynamic Speedup](dynamic-speedup.png)
-![Dynamic Efficiency](dynamic-efficiency.png)
+[![Dynamic Efficiency](dynamic-efficiency.png)](https://github.com/nesibeay/Parallel-Programming-Projects/blob/main/dynamic-efficiency.png)
 
 ### Guided Scheduling
 ![Guided Runtime](guided-runtime.png)
