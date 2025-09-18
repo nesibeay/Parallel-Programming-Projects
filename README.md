@@ -51,9 +51,9 @@ Benchmark script (benchmark.py) automates runs and generates CSV + plots.
 ## Results
 
 ### Static Scheduling
-![Static Runtime](static-runtime.png)
-![Static Speedup](static-speedup.png)
-![Static Efficiency](static-efficiency.png)
+![Static Runtime](./static-runtime.png)
+![Static Speedup](./static-speedup.png)
+![Static Efficiency](./static-efficiency.png)
 
 ### Dynamic Scheduling
 ![Dynamic Runtime](dynamic-runtime.png)
