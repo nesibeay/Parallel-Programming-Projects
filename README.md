@@ -48,6 +48,28 @@ schedule_type = static | dynamic | guided
 Benchmark script (benchmark.py) automates runs and generates CSV + plots.
 
 ## 4. Analysis & Results
+## Results
+
+### Static Scheduling
+![Static Runtime](static-runtime.png)
+![Static Speedup](static-speedup.png)
+![Static Efficiency](static-efficiency.png)
+
+### Dynamic Scheduling
+![Dynamic Runtime](dynamic-runtime.png)
+![Dynamic Speedup](dynamic-speedup.png)
+![Dynamic Efficiency](dynamic-efficiency.png)
+
+### Guided Scheduling
+![Guided Runtime](guided-runtime.png)
+![Guided Speedup](guided-speedup.png)
+![Guided Efficiency](guided-efficiency.png)
+
+### Overall Comparison
+![Runtime Comparison](runtime.png)
+![Speedup Comparison](speedup.png)
+![Efficiency Comparison](efficiency.png)
+
 Execution Time
 
 Static: good for small data, poor scaling at >4 threads.
